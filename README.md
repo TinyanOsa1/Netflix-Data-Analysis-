@@ -110,4 +110,4 @@ This project focuses on analyzing a Netflix dataset obtained from Kaggle, contai
 ![Netflix Excel Dashboard](Netflix%20Excel%20Dashboard%20.jpg)
 ___
 **Power Bi**
-
+![Netflix Power BI Dashboard](Netflix%20Power%20Bi%20Dashboard%20.jpg)
